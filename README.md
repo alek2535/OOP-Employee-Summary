@@ -6,8 +6,6 @@ Week-10 HW
 
 ## Description
 
-Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
-
 This project is a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application creates an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ## Table of Contents
@@ -121,6 +119,3 @@ This project has unit tests that the application has passed. These tests can be 
 alekvalencia2535@gmail.com
 
 If you have any questions about the project you can reach me at the above email.
-
-
-
